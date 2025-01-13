@@ -1,5 +1,5 @@
 # General check template preparation Google Apps Script
-Цель скрипта: автоматизация настройки шаблона "Генпроверка".
+Цель скрипта: автоматизация настройки шаблона "Генеральная проверка".
 
 ## Описание
 Алгоритм работы с файлом:
@@ -9,4 +9,4 @@
 добавляющая новые столбцы, настраивающая выпадающие списки, условное форматирование и формулы, используя данные с листа "Settings"
 
 ## Ссылка на таблицу
-[Google Sheets](https://docs.google.com/spreadsheets/d/1QloVPw4uJhsyMozJc4-LggDXAh-8iYqvhDVdlfTGuIY/edit?gid=1974645193#gid=1974645193)
+[Google Sheets](https://docs.google.com/spreadsheets/d/1tfZJ8zvxmCHWT9Y5H5X09u6KLbpWkP6ALpHTqY8OqxU/edit?gid=1974645193#gid=1974645193)
